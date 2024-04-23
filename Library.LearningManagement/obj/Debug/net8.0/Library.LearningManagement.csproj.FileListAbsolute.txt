@@ -1,0 +1,11 @@
+/Users/erickreynoso-placencia/canvas/Library.LearningManagement/obj/Debug/net8.0/Library.LearningManagement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/erickreynoso-placencia/canvas/Library.LearningManagement/obj/Debug/net8.0/Library.LearningManagement.AssemblyInfoInputs.cache
+/Users/erickreynoso-placencia/canvas/Library.LearningManagement/obj/Debug/net8.0/Library.LearningManagement.AssemblyInfo.cs
+/Users/erickreynoso-placencia/canvas/Library.LearningManagement/obj/Debug/net8.0/Library.LearningManagement.csproj.CoreCompileInputs.cache
+/Users/erickreynoso-placencia/canvas/Library.LearningManagement/bin/Debug/net8.0/Library.LearningManagement.deps.json
+/Users/erickreynoso-placencia/canvas/Library.LearningManagement/bin/Debug/net8.0/Library.LearningManagement.dll
+/Users/erickreynoso-placencia/canvas/Library.LearningManagement/bin/Debug/net8.0/Library.LearningManagement.pdb
+/Users/erickreynoso-placencia/canvas/Library.LearningManagement/obj/Debug/net8.0/Library.LearningManagement.dll
+/Users/erickreynoso-placencia/canvas/Library.LearningManagement/obj/Debug/net8.0/refint/Library.LearningManagement.dll
+/Users/erickreynoso-placencia/canvas/Library.LearningManagement/obj/Debug/net8.0/Library.LearningManagement.pdb
+/Users/erickreynoso-placencia/canvas/Library.LearningManagement/obj/Debug/net8.0/ref/Library.LearningManagement.dll
