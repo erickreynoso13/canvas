@@ -12,7 +12,7 @@ namespace Library.LearningManagement.models
 
         public Dictionary<int,double> Grades{get;set;}
 
-        public char Classification {get;set;}
+        public PersonClassification Classification {get;set;}
 
         public Person()
         {
@@ -20,6 +20,16 @@ namespace Library.LearningManagement.models
             Grades = new Dictionary<int, double>(); 
         }
 
+        public override string ToString()  
+        {
+            return $"[{Id}] {Name} - {Classification}";
+
+        }
+
+    }
+    public enum PersonClassification
+    {
+        Freshman, Sophmore, Junior, Senior
     }
 }
 

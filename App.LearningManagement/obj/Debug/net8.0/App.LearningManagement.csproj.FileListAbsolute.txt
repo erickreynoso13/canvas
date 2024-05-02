@@ -1,14 +1,5 @@
-/Users/erickreynoso-placencia/canvas/App.LearningManagement/bin/Debug/net8.0/App.LearningManagement
-/Users/erickreynoso-placencia/canvas/App.LearningManagement/bin/Debug/net8.0/App.LearningManagement.deps.json
-/Users/erickreynoso-placencia/canvas/App.LearningManagement/bin/Debug/net8.0/App.LearningManagement.runtimeconfig.json
-/Users/erickreynoso-placencia/canvas/App.LearningManagement/bin/Debug/net8.0/App.LearningManagement.dll
-/Users/erickreynoso-placencia/canvas/App.LearningManagement/bin/Debug/net8.0/App.LearningManagement.pdb
 /Users/erickreynoso-placencia/canvas/App.LearningManagement/obj/Debug/net8.0/App.LearningManagement.GeneratedMSBuildEditorConfig.editorconfig
 /Users/erickreynoso-placencia/canvas/App.LearningManagement/obj/Debug/net8.0/App.LearningManagement.AssemblyInfoInputs.cache
 /Users/erickreynoso-placencia/canvas/App.LearningManagement/obj/Debug/net8.0/App.LearningManagement.AssemblyInfo.cs
 /Users/erickreynoso-placencia/canvas/App.LearningManagement/obj/Debug/net8.0/App.LearningManagement.csproj.CoreCompileInputs.cache
-/Users/erickreynoso-placencia/canvas/App.LearningManagement/obj/Debug/net8.0/App.LearningManagement.dll
-/Users/erickreynoso-placencia/canvas/App.LearningManagement/obj/Debug/net8.0/refint/App.LearningManagement.dll
-/Users/erickreynoso-placencia/canvas/App.LearningManagement/obj/Debug/net8.0/App.LearningManagement.pdb
-/Users/erickreynoso-placencia/canvas/App.LearningManagement/obj/Debug/net8.0/App.LearningManagement.genruntimeconfig.cache
-/Users/erickreynoso-placencia/canvas/App.LearningManagement/obj/Debug/net8.0/ref/App.LearningManagement.dll
+/Users/erickreynoso-placencia/canvas/App.LearningManagement/obj/Debug/net8.0/App.LearningManagement.sourcelink.json
